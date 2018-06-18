@@ -1,0 +1,3 @@
+C:/Users/Base/Desktop/UNI/Objektinis programavimas/5Clion/cmake-build-debug/CMakeFiles/5Clion.dir
+C:/Users/Base/Desktop/UNI/Objektinis programavimas/5Clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Base/Desktop/UNI/Objektinis programavimas/5Clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

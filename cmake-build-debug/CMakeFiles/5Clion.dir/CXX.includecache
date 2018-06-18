@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Base/Desktop/UNI/Objektinis programavimas/5Clion/main.cpp
+iostream
+-
+map
+-
+fstream
+-
+algorithm
+-
+locale
+-
+iomanip
+-
+sstream
+-
+
